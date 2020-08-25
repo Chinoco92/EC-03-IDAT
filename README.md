@@ -1,2 +1,2 @@
 ## Notas:
-Esto es una pruba para control de versiones
+Aplicacion de validacion de DNI y contraseña, con NavigationDrawer y fragments
